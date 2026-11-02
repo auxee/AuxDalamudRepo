@@ -28,7 +28,7 @@
     "Author": "Auxie",
     "Name": "AuxEmotion",
     "InternalName": "AuxEmotion",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.2.0.0",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/auxee/AuxEmotion",
     "IconUrl": "https://raw.githubusercontent.com/auxee/AuxEmotion/main/plugin_icon.png",
@@ -47,6 +47,6 @@
     "DownloadLinkInstall": "https://github.com/auxee/AuxEmotion/releases/latest/download/AuxEmotion.zip",
     "DownloadLinkTesting": "https://github.com/auxee/AuxEmotion/releases/latest/download/AuxEmotion.zip",
     "DownloadLinkUpdate": "https://github.com/auxee/AuxEmotion/releases/latest/download/AuxEmotion.zip",
-    "LastUpdate": "1779005484"
+    "LastUpdate": "1793608806"
   }
 ]
