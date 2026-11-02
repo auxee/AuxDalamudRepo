@@ -6,7 +6,7 @@ Custom Dalamud feed for Aux plugins.
 
 Use this in XIVLauncher -> Dalamud Settings -> Experimental -> Custom Plugin Repositories:
 
-`https://raw.githubusercontent.com/Spoooki/AuxDalamudRepo/main/repo.json`
+`https://raw.githubusercontent.com/auxee/AuxDalamudRepo/main/repo.json`
 
 ## Included Plugins
 
