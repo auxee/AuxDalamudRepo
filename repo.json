@@ -3,14 +3,14 @@
     "Author": "Auxie",
     "Name": "AuxMarketboard",
     "InternalName": "AuxMarketboard",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.2.0.0",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/auxee/AuxMarketboard",
     "IconUrl": "https://raw.githubusercontent.com/auxee/AuxMarketboard/main/plugin_icon.png",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "Punchline": "Price imported and custom item lists from Universalis",
-    "Description": "Builds an item list manually or from artisan/teamcraft link imports, fetches marketboard prices from Universalis, and shows per-item plus total cost.",
+    "Punchline": "Price shopping lists by whole stack with tax and plan which worlds to buy from",
+    "Description": "Build a shopping list by search or by importing Teamcraft links, Artisan exports and item lines. Prices come from live Universalis listings, bought as whole stacks including the 5% market tax, and are turned into a per-world buy plan with an optional limit on how many worlds to use.",
     "Tags": [
       "marketboard",
       "universalis",
@@ -22,13 +22,13 @@
     "DownloadLinkInstall": "https://github.com/auxee/AuxMarketboard/releases/latest/download/AuxMarketboard.zip",
     "DownloadLinkTesting": "https://github.com/auxee/AuxMarketboard/releases/latest/download/AuxMarketboard.zip",
     "DownloadLinkUpdate": "https://github.com/auxee/AuxMarketboard/releases/latest/download/AuxMarketboard.zip",
-    "LastUpdate": "1779005484"
+    "LastUpdate": "1793654753"
   },
   {
     "Author": "Auxie",
     "Name": "AuxEmotion",
     "InternalName": "AuxEmotion",
-    "AssemblyVersion": "0.2.0.0",
+    "AssemblyVersion": "0.2.1.0",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/auxee/AuxEmotion",
     "IconUrl": "https://raw.githubusercontent.com/auxee/AuxEmotion/main/plugin_icon.png",
@@ -47,6 +47,6 @@
     "DownloadLinkInstall": "https://github.com/auxee/AuxEmotion/releases/latest/download/AuxEmotion.zip",
     "DownloadLinkTesting": "https://github.com/auxee/AuxEmotion/releases/latest/download/AuxEmotion.zip",
     "DownloadLinkUpdate": "https://github.com/auxee/AuxEmotion/releases/latest/download/AuxEmotion.zip",
-    "LastUpdate": "1793608806"
+    "LastUpdate": "1793654753"
   }
 ]
