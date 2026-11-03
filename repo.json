@@ -3,7 +3,7 @@
     "Author": "Auxie",
     "Name": "AuxMarketboard",
     "InternalName": "AuxMarketboard",
-    "AssemblyVersion": "0.2.0.0",
+    "AssemblyVersion": "0.2.1.0",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/auxee/AuxMarketboard",
     "IconUrl": "https://raw.githubusercontent.com/auxee/AuxMarketboard/main/plugin_icon.png",
@@ -22,13 +22,13 @@
     "DownloadLinkInstall": "https://github.com/auxee/AuxMarketboard/releases/latest/download/AuxMarketboard.zip",
     "DownloadLinkTesting": "https://github.com/auxee/AuxMarketboard/releases/latest/download/AuxMarketboard.zip",
     "DownloadLinkUpdate": "https://github.com/auxee/AuxMarketboard/releases/latest/download/AuxMarketboard.zip",
-    "LastUpdate": "1793654753"
+    "LastUpdate": "1793666445"
   },
   {
     "Author": "Auxie",
     "Name": "AuxEmotion",
     "InternalName": "AuxEmotion",
-    "AssemblyVersion": "0.2.1.0",
+    "AssemblyVersion": "0.2.2.0",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/auxee/AuxEmotion",
     "IconUrl": "https://raw.githubusercontent.com/auxee/AuxEmotion/main/plugin_icon.png",
@@ -47,6 +47,6 @@
     "DownloadLinkInstall": "https://github.com/auxee/AuxEmotion/releases/latest/download/AuxEmotion.zip",
     "DownloadLinkTesting": "https://github.com/auxee/AuxEmotion/releases/latest/download/AuxEmotion.zip",
     "DownloadLinkUpdate": "https://github.com/auxee/AuxEmotion/releases/latest/download/AuxEmotion.zip",
-    "LastUpdate": "1793654753"
+    "LastUpdate": "1793666445"
   }
 ]
